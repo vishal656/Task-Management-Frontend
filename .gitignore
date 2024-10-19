@@ -1,8 +1,10 @@
 # dependecies
 /backend/node_modules
 /frontend/node_modules
+/node_modules
 /.pnp
 .pnp.js
+*evn
 *.env.example
 *.env.local
 *.env.staging
